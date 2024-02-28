@@ -1,0 +1,32 @@
+{
+    "personas" : [
+        {
+            "nombre" : "Juan",
+            "apellido" : "Perez",
+            "hobies" : [
+                {
+                    "nombre" : "futbol",
+                    "nivel" : "medio"
+                },
+                {
+                    "nombre" : "tenis",
+                    "nivel" : "alto"
+                }
+            ]
+        },
+        {
+            "nombre" : "Maria",
+            "apellido" : "Gomez",
+            "hobies" : [
+                {
+                    "nombre" : "futbol",
+                    "nivel" : "alto"
+                },
+                {
+                    "nombre" : "tenis",
+                    "nivel" : "medio"
+                }
+            ]
+        }
+    ]
+}
