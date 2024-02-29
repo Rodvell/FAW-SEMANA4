@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1de2aeae-bec2-44e5-bb27-e7ae934a605e/d965s9q-3c3c4c73-d5ea-4618-9cb2-cb199c57ac5c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkZTJhZWFlLWJlYzItNDRlNS1iYjI3LWU3YWU5MzRhNjA1ZVwvZDk2NXM5cS0zYzNjNGM3My1kNWVhLTQ2MTgtOWNiMi1jYjE5OWM1N2FjNWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PgN-MiqA-IgPWKq6ltytBM80aKtFfMcj6Xt3ovHVRaM");
+    background-size: cover; /* Esto asegura que la imagen cubra todo el fondo */
+    background-position: center; /* Esto centra la imagen en el fondo */
+
+}
+
+nav {
+    background-color: #d3b50c !important;
+}
+
+.nav-wrapper {
+    padding: 0 20px;
+}
+
+.brand-logo {
+    font-size: 1.5rem;
+    line-height: 64px;
+}
+
+.tarea-text {
+    font-weight: bold;
+    color: rgb(204, 54, 197);
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px; 
+}
+
+.box-left {
+    float: left;
+    width: 30%;
+    margin-right: 10px;
+    
+}
+
+.box-right {
+    overflow: hidden; 
+    border-radius: 20px;
+}
